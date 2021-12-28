@@ -8,6 +8,7 @@ public class ProjetoUmApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProjetoUmApplication.class, args);
+		System.out.println("Projeto Um usando Spring Boot");
 	}
 
 }
